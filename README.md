@@ -52,4 +52,7 @@
   <img src="https://img.shields.io/badge/Portfolio-Coming%20soon-1f6feb?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=kalyaniugale&label=Profile%20views&color=0e75b6&style=flat)
+
+
 <sub>Stats via GitHub Readme Stats & Streak Stats.</sub>
