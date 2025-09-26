@@ -1,16 +1,53 @@
-## Hi there 👋
+<!-- Profile README for @kalyaniugale -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=600&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Kalyani;Full-stack+dev+(Java%2FJS)+building+clean+UIs+%26+reliable+APIs;Learning+in+public+%7C+shipping+small%2C+often" alt="Typing SVG" />
+</p>
 
-<!--
-**kalyaniugale/kalyaniugale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 About me
+- 💻 I enjoy **Java, JavaScript, React, Node.js, Express.js**, **MongoDB**, and **Python**
+- 🧪 Into **APIs**, **DSA**, and building small projects that solve real problems
+- 📚 Always learning; open to collabs and code reviews
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 My GitHub Stats (auto-updating)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kalyaniugale&theme=radical&hide_border=true" height="170" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyaniugale&show_icons=true&count_private=true&theme=radical&hide_border=true" height="170" alt="github stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyaniugale&layout=compact&theme=radical&hide_border=true" height="150" alt="top languages"/>
+</p>
+
+---
+
+### 🧰 Tech toolbox
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,python,html,css,git,github,vscode,postman" />
+</p>
+
+---
+
+### 🚀 Featured projects
+<!-- Replace these with your best repos and pin them on your profile -->
+- **Project Name** — one-line what it does • _React, Node, MongoDB_  
+- **Project Name** — one-line what it does • _Java, Spring Boot_  
+- **Project Name** — one-line what it does • _Python, Flask_
+
+---
+
+### 📫 Reach me
+<a href="mailto:kalyaniugale@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-FF6E96?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/kalyaniugale">
+  <img src="https://img.shields.io/badge/LinkedIn-Kalyani%20Ugale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20soon-1f6feb?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<sub>Stats via GitHub Readme Stats & Streak Stats.</sub>
