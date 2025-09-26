@@ -13,13 +13,22 @@
 ---
 
 ### 🔥 My GitHub Stats (auto-updating)
+<!-- Big profile details (includes contribution calendar) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kalyaniugale&theme=radical&hide_border=true" height="170" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kalyaniugale&show_icons=true&count_private=true&theme=radical&hide_border=true" height="170" alt="github stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalyaniugale&theme=dracula" alt="profile details card"/>
 </p>
 
+<!-- Streak + classic GitHub stats side-by-side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyaniugale&layout=compact&theme=radical&hide_border=true" height="150" alt="top languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kalyaniugale&theme=dracula&hide_border=true" height="170" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyaniugale&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="170" alt="github stats"/>
+</p>
+
+<!-- Languages in the same card style -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalyaniugale&theme=dracula" height="140" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalyaniugale&theme=dracula" height="140" alt="most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalyaniugale&theme=dracula" height="140" alt="summary stats"/>
 </p>
 
 ---
