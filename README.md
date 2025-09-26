@@ -31,19 +31,12 @@
 
 ---
 
-### 🚀 Featured projects
-<!-- Replace these with your best repos and pin them on your profile -->
-- **Project Name** — one-line what it does • _React, Node, MongoDB_  
-- **Project Name** — one-line what it does • _Java, Spring Boot_  
-- **Project Name** — one-line what it does • _Python, Flask_
-
----
 
 ### 📫 Reach me
-<a href="mailto:kalyaniugale@example.com">
+<a href="mailto:kalyaniugale24@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20me-FF6E96?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/kalyaniugale">
+<a href="https://www.linkedin.com/in/kalyani-ugale-4746112a2">
   <img src="https://img.shields.io/badge/LinkedIn-Kalyani%20Ugale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="#">
