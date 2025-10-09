@@ -6,7 +6,7 @@
 ---
 
 ### 👋 About me
-- 💻 I enjoy **Java, JavaScript, React, Node.js, Express.js**, **MongoDB**, and **Python**
+- 💻 I enjoy **JavaScript, React, Node.js, Express.js**, **MongoDB**, and **Python**
 - 🧪 Into **APIs**, **DSA**, and building small projects that solve real problems
 - 📚 Always learning; open to collabs and code reviews
 
