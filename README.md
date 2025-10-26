@@ -39,7 +39,7 @@
 </p>
 
 ---
-
+[![An image of @kalyaniugale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kalyaniugale)](https://holopin.io/@kalyaniugale)
 
 ### 📫 Reach me
 <a href="mailto:kalyaniugale24@gmail.com">
