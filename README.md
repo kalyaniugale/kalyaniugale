@@ -1,6 +1,6 @@
 <!-- Profile README for @kalyaniugale -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=600&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Kalyani;Full-stack+dev+(Java%2FJS)+building+clean+UIs+%26+reliable+APIs;Learning+in+public+%7C+shipping+small%2C+often" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=600&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Kalyani;Full-stack+dev+building+clean+UIs+%26+reliable+APIs;Learning+in+public+%7C+shipping+small%2C+often" alt="Typing SVG" />
 </p>
 
 ---
