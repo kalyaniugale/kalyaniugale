@@ -19,11 +19,12 @@
 ### 🔥 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kalyaniugale&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=kalyaniugale&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400"
     height="170"
     alt="GitHub stats"
   />
 </p>
+
 
 <p align="center">
   <img 
