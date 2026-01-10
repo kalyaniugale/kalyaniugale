@@ -39,7 +39,6 @@
 </p>
 
 ---
-[![Holopin Badges](https://www.holopin.io/api/user/board?username=kalyaniugale&size=large)](https://holopin.io/@kalyaniugale)
 
 ### 📫 Reach me
 <a href="mailto:kalyaniugale24@gmail.com">
