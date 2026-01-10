@@ -1,6 +1,10 @@
 <!-- Profile README for @kalyaniugale -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=600&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Kalyani;Full-stack+dev+building+clean+UIs+%26+reliable+APIs;Learning+in+public+%7C+shipping+small%2C+often" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=600&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B%2C+I'm+Kalyani;Full-stack+dev+building+clean+UIs+%26+reliable+APIs;Learning+in+public+%7C+shipping+small%2C+often" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ---
@@ -12,23 +16,21 @@
 
 ---
 
-### 🔥 My GitHub Stats (auto-updating)
-<!-- Big profile details (includes contribution calendar) -->
+### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalyaniugale&theme=dracula" alt="profile details card"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kalyaniugale&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" 
+    height="170"
+    alt="GitHub stats"
+  />
 </p>
 
-<!-- Streak + classic GitHub stats side-by-side -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kalyaniugale&theme=dracula&hide_border=true" height="170" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kalyaniugale&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="170" alt="github stats"/>
-</p>
-
-<!-- Languages in the same card style -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalyaniugale&theme=dracula" height="140" alt="repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalyaniugale&theme=dracula" height="140" alt="most commit language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalyaniugale&theme=dracula" height="140" alt="summary stats"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=kalyaniugale&theme=dracula&hide_border=true" 
+    height="170"
+    alt="GitHub streak"
+  />
 </p>
 
 ---
@@ -53,5 +55,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kalyaniugale&label=Profile%20views&color=0e75b6&style=flat)
 
-
-<sub>Stats via GitHub Readme Stats & Streak Stats.</sub>
